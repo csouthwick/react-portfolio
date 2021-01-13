@@ -1,16 +1,32 @@
 /* global styles */
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 :root{
   --primary-color:#111;
-  --secondary-color:#adf;
-  --secondary-color-transparent:rgba(170,221,255,.8)
+  --secondary-color:#FCC089;
+  --tertiary-color:#0A3459;
 }
 
 body{
   font: 1.125em/1.5 Arial, Helvetica, sans-serif;
+  background-color: var(--primary-color);
+}
+
+header{
+  background-image: url("./assets/images/jason-buscema--9xpSSmhTc0-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 160px;
+}
+
+header .nav-link, a, a:hover, a:visited{
+  color: var(--secondary-color);
+}
+
+main{
+  background-color: var(--tertiary-color);
+  color: #fff!important;
+}
+
+#about-me img{
+  max-width: 240px;
 }
