@@ -30,3 +30,13 @@ main{
 #about-me img{
   max-width: 240px;
 }
+
+.card{
+  background-color: transparent;
+}
+
+.card-img-top{
+  height: 300px;
+  object-fit: cover;
+  object-position: top center;
+}
