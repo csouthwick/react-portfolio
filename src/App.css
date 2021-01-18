@@ -40,3 +40,7 @@ main{
   object-fit: cover;
   object-position: top center;
 }
+
+.nav-link.active{
+  text-decoration: underline;
+}
