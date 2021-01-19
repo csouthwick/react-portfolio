@@ -5,6 +5,10 @@
   --tertiary-color:#0A3459;
 }
 
+html{
+  overflow-y: scroll;
+}
+
 body{
   font: 1.125em/1.5 Arial, Helvetica, sans-serif;
   background-color: var(--primary-color);
@@ -41,6 +45,13 @@ main{
   object-position: top center;
 }
 
+.nav-link{
+  cursor: pointer;
+  border-radius: 8px;
+  padding: .25em .5em;
+}
+
 .nav-link.active{
-  text-decoration: underline;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
 }

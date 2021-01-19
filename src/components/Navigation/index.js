@@ -1,21 +1,19 @@
 import React from 'react';
 
 function Navigation({ currentPage, setCurrentPage }) {
-  const tabs = ['About', 'Portfolio', 'Contact'];
+  const tabs = ['About', 'Portfolio', 'Contact', 'Resume'];
   return (
     <nav>
       <ul className="nav">
         {tabs.map(tab => (
-          <li className="nav-item" key={tab}>
-            <a
-              href={'#' + tab.toLowerCase()}
-              onClick={() => setCurrentPage(tab)}
-              className={
-                currentPage === tab ? 'nav-link active' : 'nav-link'
-              }
-            >
-              {tab}
-            </a>
+          <li
+            key={tab}
+            onClick={() => setCurrentPage(tab)}
+            className={
+              currentPage === tab ? 'nav-link active nav-item' : 'nav-link nav-item'
+            }
+          >
+            {tab}
           </li>
         ))}
       </ul>
