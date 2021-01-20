@@ -3,7 +3,7 @@ function Resume() {
   return (
     <section id="resume">
       <h2 className="text-center text-sm-left">Resume</h2>
-      <a href={require('../../assets/Christopher-Southwick-Web-Developer.pdf').default}>Download my resume</a>
+      <a href={require('../assets/Christopher-Southwick-Web-Developer.pdf').default}>Download my resume</a>
       <h3 className="text-center text-sm-left">Front-end Proficiencies</h3>
       <ul>
         <li>HTML5</li>

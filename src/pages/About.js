@@ -1,5 +1,5 @@
 import React from 'react';
-import photo from '../../assets/images/photo.jpg';
+import photo from '../assets/images/photo.jpg';
 function About() {
   return (
     <section id="about-me">
