@@ -5,6 +5,12 @@ import Project from '../components/Project';
 function Portfolio() {
   const [projects] = useState([
     {
+      name: "Web-Buffet",
+      url: "https://glacial-atoll-63430.herokuapp.com/",
+      github: "https://github.com/JoshCarter8400/web-buffet",
+      image: "web-buffet.png"
+    },
+    {
       name: "Book Search Engine",
       url: "https://quiet-beach-42198.herokuapp.com/",
       github: "https://github.com/csouthwick/book-search-engine",
