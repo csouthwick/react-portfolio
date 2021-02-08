@@ -22,6 +22,6 @@ Run
 npm start
 ```
 
-Or view the live app on Heroku by clicking the image below
+Or view the live app on GitHub Pages by clicking the image below
 
 [![React resume](./react-resume.png)](https://csouthwick.github.io/react-portfolio/)
