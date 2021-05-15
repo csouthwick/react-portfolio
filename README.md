@@ -2,7 +2,7 @@
 
 ## Description
 
-My web-resume with a portfolio of selected projects.
+Web-resume with a portfolio of selected projects.
 
 ## Made with
 - React
