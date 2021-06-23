@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Navigation({ currentPage, setCurrentPage }) {
-  const tabs = ['About', 'Portfolio', 'Contact', 'Resume'];
+  const tabs = ['About', 'Portfolio', 'Resume'];
   return (
     <nav>
       <ul className="nav">

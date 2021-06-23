@@ -8,10 +8,10 @@ function Footer() {
           <a className="nav-link" href="https://github.com/csouthwick/">GitHub</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="https://www.linkedin.com/in/chris-southwick-66468039/">LinkedIn</a>
+          <a className="nav-link" href="mailto:csouthwick.webdev@gmail.com">csouthwick.webdev@gmail.com</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="https://stackoverflow.com/users/4621657/chris-southwick">Stack Overflow</a>
+          <a className="nav-link" href="https://www.linkedin.com/in/chris-southwick-66468039/">LinkedIn</a>
         </li>
       </ul>
     </footer>
