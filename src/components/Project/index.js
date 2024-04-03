@@ -12,9 +12,8 @@ const Project = ({ project }) => {
       />
       <div className="card-body">
         <h3 className="card-title">
-          <a href={project.url}>{project.name}</a>
+          <a href={project.github}>{project.name}</a>
         </h3>
-        <a href={project.github}>GitHub Repository</a>
       </div>
     </div>
   );
