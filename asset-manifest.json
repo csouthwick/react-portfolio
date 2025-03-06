@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.1ade74d1.css",
-    "main.js": "/react-portfolio/static/js/main.0242d348.js",
+    "main.js": "/react-portfolio/static/js/main.a63d425e.js",
     "static/js/422.2f0d1644.chunk.js": "/react-portfolio/static/js/422.2f0d1644.chunk.js",
     "static/media/book-search.png": "/react-portfolio/static/media/book-search.ec85579f635b78738c8a.png",
     "static/media/jason-buscema--9xpSSmhTc0-unsplash.jpg": "/react-portfolio/static/media/jason-buscema--9xpSSmhTc0-unsplash.b3298ff86aac9f3ae27b.jpg",
@@ -15,11 +15,11 @@
     "static/media/Note_Taker.png": "/react-portfolio/static/media/Note_Taker.fc988ce90db2c95f0cdc.png",
     "index.html": "/react-portfolio/index.html",
     "main.1ade74d1.css.map": "/react-portfolio/static/css/main.1ade74d1.css.map",
-    "main.0242d348.js.map": "/react-portfolio/static/js/main.0242d348.js.map",
+    "main.a63d425e.js.map": "/react-portfolio/static/js/main.a63d425e.js.map",
     "422.2f0d1644.chunk.js.map": "/react-portfolio/static/js/422.2f0d1644.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ade74d1.css",
-    "static/js/main.0242d348.js"
+    "static/js/main.a63d425e.js"
   ]
 }
